@@ -36,7 +36,7 @@ String[] textFile = new String[2976];
          
          }
          if (!found){
-            System.out.println("Areas not found.");
+            System.out.println("Areas not found");
          }
       }
       
